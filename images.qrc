@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="RR">
+    <file>bang.jpg</file>
+    <file>revolver.gif</file>
+    <file>whew.jpg</file>
+  </qresource>
+</RCC>
